@@ -20,7 +20,7 @@ resume_screening_app/ │── .venv/ │── app.py │── requirements.t
 
 1️⃣ Clone the Repository
 
-git clone https://github.com/arunnayaka123/AI-powered-Resume-Screening-and-Ranking-System.git
+git clone https://github.com/Nikshayparchhe/-AI-powered-Resume-Screening-and-Ranking-System-/blob/main/README.md
 
 2️⃣ (Optional) Create a Virtual Environment
 
